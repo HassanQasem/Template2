@@ -411,7 +411,10 @@ header nav .form i {
 /* End Landing */
 .main-header {
     text-align: center;
-    padding: 100px;
+    padding: 50px;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
 }
 
 .main-header h2::before {
@@ -460,7 +463,7 @@ header nav .form i {
 /* Start Servises section  */
 .services {
     padding-top: 50px;
-    padding-right: 50px;
+    padding-bottom: 50px;
 }
 
 
